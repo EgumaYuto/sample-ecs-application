@@ -1,4 +1,4 @@
-# Sample Docker Application
+# Sample ECS Application
 
 ## 起動 
 ```
